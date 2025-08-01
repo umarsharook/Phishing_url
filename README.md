@@ -88,8 +88,3 @@ A small sample dataset is hardcoded in the script for demo purposes. For real-wo
 * [ ] Improve dataset size and quality
 * [ ] Save and load model using `joblib`
 
----
-
-
-Would you like me to create the `requirements.txt` and `phishing_detector.py` files too?
-```
