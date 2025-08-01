@@ -15,3 +15,21 @@ A simple Python-based phishing URL detector that uses machine learning and featu
 
 ## 📂 Project Structure
 
+
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/phishing-url-detector.git
+cd phishing-url-detector
+
+
+**Install Dependencies**
+
+pip install pandas scikit-learn tldextract
+
